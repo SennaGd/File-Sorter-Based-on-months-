@@ -1,0 +1,16 @@
+# File sorter
+
+## Requirements:
+- Must be dynamic
+- File-path can be chosen
+- Folder will be named automatically
+- Must be sorted based on "name"
+
+## Locating files to be sorted
+- Locating the files
+- Setting the "Sorting-Path"
+
+## Creating the folder
+- Input folder name
+- Creating folder in the "Sorting-Path"
+
